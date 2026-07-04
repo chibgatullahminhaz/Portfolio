@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 My Personal Portfolio
 
-## Getting Started
+এটি আমার পার্সোনাল পোর্টফোলিও ওয়েবসাইট, যেখানে আমার প্রজেক্ট, স্কিল এবং অভিজ্ঞতাগুলো তুলে ধরেছি। এই প্রজেক্টটি আধুনিক ওয়েব টেকনোলজি ব্যবহার করে তৈরি করা হয়েছে।
 
-First, run the development server:
+## 🛠 Tech Stack (প্রযুক্তি)
 
+এই প্রজেক্টটি তৈরিতে নিচের প্রযুক্তিগুলো ব্যবহার করা হয়েছে:
+
+- **Framework:** [Next.js](https://nextjs.org/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components:** [shadcn/ui](https://ui.shadcn.com/)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Deployment:** [Vercel](https://vercel.com/)
+
+## ✨ Features (মূল বৈশিষ্ট্য)
+
+- 📱 **Fully Responsive:** যেকোনো ডিভাইসে (Mobile, Tablet, Desktop) সুন্দরভাবে কাজ করে।
+- 🌙 **Dark/Light Mode:** ইউজার তাদের পছন্দমতো থিম পরিবর্তন করতে পারে।
+- ⚡ **Fast Performance:** নেক্সট জেএস-এর কারণে সাইটটি অত্যন্ত দ্রুত।
+- 🎨 **Modern UI:** shadcn/ui এবং ফ্রেমার মোশন দিয়ে স্মুথ ইন্টারঅ্যাকশন।
+
+## 🚀 Getting Started (রান করার নিয়ম)
+
+আপনার লোকাল মেশিনে প্রজেক্টটি রান করতে নিচের ধাপগুলো অনুসরণ করুন:
+
+১. প্রজেক্টটি ক্লোন করুন:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone [https://github.com/YourUsername/portfolio.git](https://github.com/YourUsername/portfolio.git)
